@@ -23,6 +23,7 @@ body {
   padding: 2rem;
   color: #fdfdfd;
   border-radius: 1rem;
+  width: 420px;
 }
 
 /* form */
@@ -79,7 +80,7 @@ body {
 }
 
 #country {
-  height: 15px;
+  height: 25px;
 }
 
 #description-container {
@@ -96,7 +97,7 @@ body {
 }
 
 #details-container #umidity {
-  border-radius: 1px solid #fff;
+  border-right: 1px solid #fff;
   margin: 0.6rem;
   padding: 0.6rem;
 }
